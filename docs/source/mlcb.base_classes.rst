@@ -5,10 +5,6 @@ BaseTunableModel module
 -----------------------
 
 .. automodule:: mlcb.base_classes.BaseTunableModel
-   :noindex:
-   :members:
-   :undoc-members:
-   :show-inheritance:
 
 Subpackages
 -----------
