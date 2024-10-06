@@ -17,7 +17,7 @@ To contribute to the MLCB project, follow the guidelines in the [Contributing](r
 
 ## License
 
-The project is licensed under MIT [License](readme/LICENSE). Please refer to this file to understand the terms and conditions for using, modifying, and distributing the software.
+The project is licensed under MIT [License](LICENSE). Please refer to this file to understand the terms and conditions for using, modifying, and distributing the software.
 
 ## Sample codes
 
