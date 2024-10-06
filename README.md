@@ -17,11 +17,11 @@ To contribute to the MLCB project, follow the guidelines in the [Contributing](r
 
 ## License
 
-The project is licensed under MIT [License](readme/LICENSE.md). Please refer to this file to understand the terms and conditions for using, modifying, and distributing the software.
+The project is licensed under MIT [License](readme/LICENSE). Please refer to this file to understand the terms and conditions for using, modifying, and distributing the software.
 
 ## Sample codes
 
-Sample codes demonstrating how to use the library to simulate various cases are provided in the [Code Samples](readme/CODE_SAMPLES.md) file. These examples guide users on how to use different classifiers with different datasets.
+Sample codes demonstrating how to use the library to simulate various cases are provided in the folder examples. These examples guide users on how to use different classifiers with different datasets.
 
 ## Maintainers
 
