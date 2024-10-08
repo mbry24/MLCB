@@ -28,7 +28,7 @@ pip install mlcb
 ```
 ## Sample codes
 
-Sample codes demonstrating how to use the library to simulate various cases are provided in the folder examples. These examples guide users on how to use different classifiers with different datasets.
+Sample codes demonstrating how to use the library to simulate various cases are provided in the folder examples. These examples guide users on how to use different classifiers with different datasets. [WARNING - notebooks must be executed on local enviroment - via Visual Studio Code or other tools]
 
 ## Maintainers
 
